@@ -1,0 +1,24 @@
+body {
+    line-height: 1.2;
+    font-size: 18px;
+}
+
+.wrapper {
+    max-width: 800px;
+    padding: 30px;
+    margin: 0 auto;
+    background-color: #5748;
+}
+
+h1 {
+    color: #deff09;
+}
+
+h2 {
+    color: #ffda09;
+}
+
+.scroll {
+    background: rgb(99, 107, 0);
+    height: 400px;
+}
